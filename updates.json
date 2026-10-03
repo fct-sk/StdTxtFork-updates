@@ -1,7 +1,18 @@
 {
   "addons": {
     "StandardTexter@pharqcon.com": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.9.1",
+          "update_link": "https://github.com/fct-sk/StdTxtFork-updates/releases/download/v1.9.1/standardtexter-1.9.1-tb.xpi",
+          "update_hash": "sha256:ab85f724e8b8f1d448ebd33438c4c48d093ad61fb2336f5f097fe9fbea014a61",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "78.5.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
